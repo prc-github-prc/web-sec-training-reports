@@ -6,3 +6,4 @@ Small but growing collection of training reports based on web security training 
 As my native language is not english, please feel free to report any misspelling or grammatical error.
 
 Unfortunetly, sometimes the pdf files can't be seen using firefox or wget, so if you still really want to see them, I recommand you to clone the repo or use another client to try to see the content.
+You must also notice that even if you succefully see the files, you won't be able to click on the hyperlinks, so the best to access to this content seems to be to clone the repo.
